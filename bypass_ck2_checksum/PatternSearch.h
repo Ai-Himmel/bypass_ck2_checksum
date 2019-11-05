@@ -1,5 +1,5 @@
 ﻿#pragma once
-
+// edit from https://github.com/DarthTon/Blackbone/blob/master/src/BlackBone/Patterns
 
 #define REBASE(pRVA, baseOld, baseNew)       ((ptr_t)pRVA - (ptr_t)baseOld + (ptr_t)baseNew)
 

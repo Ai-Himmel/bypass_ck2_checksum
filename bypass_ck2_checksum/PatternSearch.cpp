@@ -1,5 +1,5 @@
-﻿#include "PatternSearch.h"
-
+﻿// edit from https://github.com/DarthTon/Blackbone/blob/master/src/BlackBone/Patterns
+#include "PatternSearch.h"
 #include <windows.h>
 #include <algorithm>
 #include <memory>
