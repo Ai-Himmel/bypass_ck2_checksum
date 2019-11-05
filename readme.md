@@ -1,12 +1,12 @@
 #  bypass_ck2_checksum
+
 [中文文档](readme_zh-cn.md)
+
 This patch is used to bypass CK2 checksum in order to get achievements.
 
 ## Notice
 
 And this patch will *NOT* bypass other checks. That means you must be in Ironman mode and etc.
-
-
 
 ## How to use
 
@@ -25,6 +25,12 @@ Only tested in 3.2.1 but may be used for other 32-bit version.
 If you have any question, you can create an issue.
 
 English and Chinese are both OK. I can read a little Japanese but it is also welcomed( reply will be in English).
+
+## Thanks
+
+[CK2DLL](https://github.com/matanki-saito/CK2dll)
+
+[Blackbone](https://github.com/DarthTon/Blackbone/)
 
 ## TODO
 

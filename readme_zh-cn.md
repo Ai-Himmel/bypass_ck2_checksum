@@ -21,6 +21,11 @@
 
 遇见任何问题,请开一个issue请求支持.
 
+## 感谢
+
+[CK2DLL](https://github.com/matanki-saito/CK2dll)
+
+[Blackbone](https://github.com/DarthTon/Blackbone/)
 
 ## TODO
 
