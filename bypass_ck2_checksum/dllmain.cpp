@@ -25,7 +25,7 @@ BOOL APIENTRY DllMain( HMODULE hModule,
 		/*
 		mov eax,[ebp+?]
 		setz al
-		mov eax,[ebp+?]
+		mov [ebp+?],eax
 		*/
 		PatternSearch ps{ 0x88,0x47,0x00,0x0F,0x94,0xC0,0x88,0x47,0x00 };//0x00 is wildcard
 		std::vector<ptr_t> ptr_t;
