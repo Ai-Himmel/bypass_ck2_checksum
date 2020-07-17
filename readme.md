@@ -11,14 +11,12 @@ And this patch will *NOT* bypass other checks. That means you must be in Ironman
 ## How to use
 
 1. Download from release.
-
 2. Unzip to CK2 folder.
-
 3. Enjoy it
 
 ## Support version
 
-Only tested in 3.2.1 but may be used for other 32-bit version.
+Tested in 3.2.1 for 32-bit version and 3.3.3 for 64-bit version.
 
 ## Issues
 
@@ -34,7 +32,7 @@ English and Chinese are both OK. I can read a little Japanese but it is also wel
 
 ## TODO
 
-Support for 64-bit version.
+- [x] Support for 64-bit version.
 
 
 
