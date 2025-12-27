@@ -16,7 +16,7 @@ And this patch will *NOT* bypass other checks. That means you must be in Ironman
 
 ## Support version
 
-Tested in 3.2.1 for 32-bit version and 3.3.3 for 64-bit version.
+Tested in 3.2.1 for 32-bit version and 3.3.5.1 for 64-bit version.
 
 ## Issues
 
